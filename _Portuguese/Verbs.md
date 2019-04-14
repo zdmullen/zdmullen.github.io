@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Portuguese Verbs
-
+title: Portuguese verbs
 ---
 # This page details the conjugation of different types of Portuguese verbs.
 
