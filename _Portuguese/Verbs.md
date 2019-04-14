@@ -1,5 +1,5 @@
 ---
-type: default
+layout: default
 title: Portuguese Verbs
 
 ---
