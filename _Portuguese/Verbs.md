@@ -3,7 +3,7 @@ type: default
 title: Portuguese Verbs
 
 ---
-
+# This page details the conjugation of different types of Portuguese verbs.
 
 
 
